@@ -1,6 +1,9 @@
 # JavaScript-Algorithms-and-Data-Structures
 The included files are the final five projects required to acquire FreeCodeCamp's JS Algorithms and Data Structures certification. Course completion took roughly 30 hours (the course quotes 300 and there are **over 250 exercises**).
 
+**Certification:** https://www.freecodecamp.org/certification/a_lusch/javascript-algorithms-and-data-structures
+<img width="1147" alt="image" src="https://user-images.githubusercontent.com/76706672/204637070-2841d751-fcc2-4e83-9c57-b7f5238b6942.png">
+
 ## Caesar's Cipher
 **Question:**
 
